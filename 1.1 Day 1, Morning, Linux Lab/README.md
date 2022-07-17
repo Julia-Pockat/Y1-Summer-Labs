@@ -21,7 +21,7 @@ In this lab, you will learn how to use basic `Linux` commands. These will help y
     1. `cd` means **C**hange **D**irectory (A directory is a folder)
 
 1. Make a directory called **Day1** using `mkdir`. 
-    1. And then type `ls` - a command that shows you the list of all files/folders in the current directory. 
+    1. And then type `ls` - a command that shows you the list of all files/folders in the current directory. You can remember this by remembering that ls has two of the same letters as list!
     1. What do you see?
 
 
